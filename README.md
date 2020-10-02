@@ -1,1 +1,1 @@
-# Sanke-Game made in Python wth the help og inbuilt turtle module.
+# Sanke-Game made in Python wth the help in inbuilt turtle module.
